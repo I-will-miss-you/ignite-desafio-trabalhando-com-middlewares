@@ -18,8 +18,9 @@ Visite à [Rockseat](https://rocketseat.com.br/) para saber mais sobre o curso.
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
   <a href="https://github.com/rocketseat-education/ignite-template-trabalhando-com-middlewares/stargazers">
-    <img alt="Stargazers" src="https://github.com/rocketseat-education/ignite-template-trabalhando-com-middlewares?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/rocketseat-education/ignite-template-trabalhando-com-middlewares?style=social">
   </a>
+  
 </p>
 
 <p align="center">
